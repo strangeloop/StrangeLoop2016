@@ -6,6 +6,9 @@ If you try to download slides and see a "Blob too big" error, then the file is t
 
 ```git clone https://github.com/strangeloop/StrangeLoop2016.git```
 
+## Unsessions:
+* [Getting started with Machine Learning](https://github.com/strangeloop/StrangeLoop2016/wiki/Unsessions#ml): [Resources to help navigate your way](https://github.com/adonoho/SL2016-LearnMachineLearning)
+
 ## Tell Me More!
 
 Go to the [Coverage](https://github.com/strangeloop/StrangeLoop2016/wiki/Coverage) wiki page for links to pictures, videos, blogs, and lots more.
