@@ -8,6 +8,7 @@ If you try to download slides and see a "Blob too big" error, then the file is t
 
 ## Unsessions:
 * [Getting started with Machine Learning](https://github.com/strangeloop/StrangeLoop2016/wiki/Unsessions#ml): [Resources to help navigate your way](https://github.com/adonoho/SL2016-LearnMachineLearning)
+* [Engineering Culture Hacking from Inside Out](https://github.com/strangeloop/StrangeLoop2016/wiki/Unsessions#culture_hacking): [[slides]](https://dl.dropboxusercontent.com/u/4137906/Talk%20slides/culture-hacking-2016-09-17.zip) / [[book recommendations]](https://github.com/strangeloop/StrangeLoop2016/wiki/Unsessions#book-recommendations)
 
 ## Tell Me More!
 
